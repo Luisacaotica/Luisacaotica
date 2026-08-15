@@ -6,7 +6,7 @@
 
 <div align="center">
   <a href="https://x.com/LuisaCoolSouza" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+    <img src="https://cdn.simpleicons.org/x/181717" width="40" height="40" alt="X (Twitter)"  />
   </a>
   <a href="https://ko-fi.com/luisacaotica" target="_blank">
     <img src="https://ko-fi.com/img/githubbutton_sm.svg" width="160" height="40" alt="ko-fi"  />
@@ -23,6 +23,6 @@
 - "how tf does the clip know how I look exactly?" — yes, that's me, every time it works
 
 <div align="right">
-  <img src="https://github-readme-stats.vercel.app/api?username=Luisacaotica&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=pt-br&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Luisacaotica&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-stats-extended.vercel.app/api?username=Luisacaotica&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=pt-br&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=Luisacaotica&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
