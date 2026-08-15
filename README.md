@@ -1,14 +1,9 @@
-<p align="center">
-  <img src="banner.svg" width="468" height="80" alt="Luisa Caótica — welcome to my homepage">
-</p>
 
 <div align="center">
   <b>★ ☆ ★ ☆ ★ ☆ ★ ☆ ★ ☆ ★ ☆ ★</b>
 </div>
 
-<br>
-
-<h3 align="center">Lᴜɪsᴀ Cᴀóᴛɪᴄᴀ</h3>
+<h3 align="center"><img src="https://i17.photobucket.com/albums/b86/ylsgib/Minis%202/o0020002010680173610.gif">Lᴜɪsᴀ Cᴀóᴛɪᴄᴀ<img src="https://i17.photobucket.com/albums/b86/ylsgib/Minis%202/o0020002010680173610.gif"></h3>
 
 <p align="center">Gᴏᴅᴏᴛ ɪs ᴍʏ ғᴀᴠ!!! · AI tinkerer · makes videos dream</p>
 
@@ -18,8 +13,8 @@
   <img src="https://komarev.com/ghpvc/?username=Luisacaotica&color=ff8c00&style=flat-square" alt="visitors counter">
 </p>
 
----
 
+---
 ## ✦ what i'm building ✦
 
 - **ComfyUI-MiniMaxH3Mod** — no-training "RefMod" adapters for MiniMax H3: save a reference image/video/GIF once as a tiny `.safetensors`, then reuse it like a LoRA. A few KB of conditioning instead of a heavy video injection. [take a look →](https://github.com/Luisacaotica/ComfyUI-MiniMaxH3Mod) (coffee-powered development ☕)
@@ -50,5 +45,7 @@
 
 <div align="center">
   <b>★ ☆ ★ ☆ ★ ☆ ★ ☆ ★ ☆ ★ ☆ ★</b><br>
-  <sub>made with ☕ and ✨ · best viewed in Netscape Navigator 4.0 · © 1998-2026 Luisa Caótica</sub>
+    <img src="https://64.media.tumblr.com/f74658bdb6523e65d4fc33e90309244a/2392e7c1f6f7c3e5-6f/s100x200/c9b87a7df6358ae38b5f78cd1c7b89ec7a347bb3.gifv"><img src="https://64.media.tumblr.com/ce01ce919592de1fdeec961986981458/cc28cabb90bcbed1-35/s100x200/ab05bd9a461025ff9d2b96e44a672369c2f1377f.gif"><img src="https://64.media.tumblr.com/01b65aea0822a6c2d0b70f9d8d80b26c/79d8b316934d24c3-9a/s100x200/43761549990611a65717f4d97a3cbff5becdd5f9.gifv">
+
+  <sub>made with ☕ and ✨ · best viewed in Netscape Navigator 4.0 · © 1999-2026 Luisa Caótica</sub>
 </div>
